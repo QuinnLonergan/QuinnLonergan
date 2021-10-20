@@ -19,4 +19,14 @@ Social media application that allows users to swipe through a stack of movies vi
 
 :tea:Application for film buffs to submit reviews and ratings for movies, as well as comment on other users' reviews.
 
+## Get in Touch :mailbox:
+
+<p>
+  <a href="https://www.linkedin.com/in/quinn-lonergan-b70512181/" target="blank"><img align="left" src="https://www.linkedin.com/in/quinn-lonergan-b70512181/" height="30" width="30" /></a>
+  <a href="https://medium.com/@qui99lo" target="blank"><img align="left" src="https://medium.com/@qui99lo"  height="30" width="30" /></a>
+ </p>
+ 
+ <br />
+ &emsp;
+
   
