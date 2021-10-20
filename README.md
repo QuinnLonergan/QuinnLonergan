@@ -5,7 +5,7 @@ Full-stack developer with experience in frontend and backend technologies such a
 I bring strong skills in collaboration and teamwork, as well as a passion for creativity in everything I do. My background working on film sets gives me an alternative perspective and experience working in high-stress, deadline-driven, highly collaborative environments. In addition, I spent the summer of 2019 at the esteemed Second City in Chicago working through Columbia College's Comedy Studies program writing and performing a full sketch comedy show. I believe humor is an integral part of human connection and try to incorporate aspects of levity in everything I do.
  
   
-## Projects :art:
+## Projects 
 
 **MovieStack** [Demo](https://moviestack.herokuapp.com/) | [Frontend Repo](https://github.com/QuinnLonergan/MovieStackProject)
 
@@ -19,14 +19,30 @@ Social media application that allows users to swipe through a stack of movies vi
 
 :tea:Application for film buffs to submit reviews and ratings for movies, as well as comment on other users' reviews.
 
-## Get in Touch :mailbox:
+## Contact Me 
 
 <p>
-  <a href="https://www.linkedin.com/in/quinn-lonergan-b70512181/" target="blank"><img align="left" src="https://www.linkedin.com/in/quinn-lonergan-b70512181/" height="30" width="30" /></a>
-  <a href="https://medium.com/@qui99lo" target="blank"><img align="left" src="https://medium.com/@qui99lo"  height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/quinn-lonergan-b70512181/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
+  <a href="https://medium.com/@qui99lo" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  height="30" width="30" /></a>
  </p>
  
  <br />
  &emsp;
+ 
+ ## Skills
+
+<p align="left">
+  <img src="https://icongr.am/devicon/html5-plain.svg?size=128&color=currentColor" alt="html5" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/css3-plain.svg?size=128&color=currentColor" alt="css3" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=currentColor" alt="js" align="left" width="40" height="40"/>
+  <img src="https://i.imgur.com/rTNkWSQ.png" alt="react" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/ruby-plain.svg?size=128&color=currentColor" alt="ruby" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/rails-plain-wordmark.svg?size=128&color=currentColor" alt="rails" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/nodejs-plain-wordmark.svg?size=128&color=currentColor" alt="node" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/postgresql-plain.svg?size=128&color=currentColor" alt="postgres" align="left" width="40" height="40"/>
+</p>
+
+<br />
+&emsp;
 
   
