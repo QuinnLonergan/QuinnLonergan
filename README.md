@@ -22,7 +22,7 @@ Application for film buffs to submit reviews and ratings for movies, as well as 
 ## Contact Me 
 
 <p>
-  <a href="https://www.linkedin.com/in/quinn-lonergan-b70512181/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/quinn-lonergan/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
   <a href="https://medium.com/@qui99lo" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  height="30" width="30" /></a>
  </p>
  
