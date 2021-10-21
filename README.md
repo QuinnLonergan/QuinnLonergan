@@ -13,11 +13,11 @@ Social media application that allows users to swipe through a stack of movies vi
 
 **FiveOClock** :tropical_drink: *WIP* [Demo]Coming Soon! | [Frontend Repo](https://github.com/QuinnLonergan/P4Project)
 
-:tea: Application for bartenders and cocktail enthusiasts that allows users to post custom recipes to be seen, liked, and commented on by other users.  
+Application for bartenders and cocktail enthusiasts that allows users to post custom recipes to be seen, liked, and commented on by other users.  
 
 **Backseat Critic** :black_nib: *WIP* [Demo]Coming Soon! | [Frontend Repo](https://github.com/QuinnLonergan/phase-3-project-front-end)
 
-:tea:Application for film buffs to submit reviews and ratings for movies, as well as comment on other users' reviews.
+Application for film buffs to submit reviews and ratings for movies, as well as comment on other users' reviews.
 
 ## Contact Me 
 
