@@ -9,7 +9,7 @@ I spent the summer of 2019 at the esteemed Second City in Chicago, working throu
   
 ## Projects 
 
-**MovieStack** :movie_camera: [Demo](https://moviestack.herokuapp.com/) | [Frontend Repo](https://github.com/QuinnLonergan/MovieStackProject)
+**MovieStack** :movie_camera: [Demo](https://moviestack.herokuapp.com/) | [Frontend Repo](https://github.com/QuinnLonergan/MovieStackProject) | [Video Walkthrough](https://www.loom.com/share/9b9878a481944519ae59d9c8122e4fb9)
 
 Social media application that allows users to swipe through a stack of movies via a Tinder-like UI, voting yes or no on each, then inviting friends to do the same and returning a movie that both users liked, as well as functionality to enable users to create and edit their own custom stacks of movies
 - Implemented authorization utilizing JSON Web Tokens to encrypt account information for sign-up and login.
