@@ -30,6 +30,8 @@ Application for film buffs to submit reviews and ratings for movies, as well as 
 - Used cookies and authentication to have a log-in/log-out feature.
 - Created a custom backend using Ruby on Rails and Active Record.
 
+**Portfolio** [Link](https://quinnlonergan.github.io/)
+
 ## Contact Me 
 
 <p>
