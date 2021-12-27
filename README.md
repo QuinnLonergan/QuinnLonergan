@@ -27,7 +27,7 @@ Application for bartenders and cocktail enthusiasts that allows users to post cu
 
 Application for film buffs to submit reviews and ratings for movies, as well as comment on other users' reviews.
 - Engineered user interface using Javascript, React, and baseline CSS to improve user experience.
-- Used cookies and verification to have a log-in/log-out feature.
+- Used cookies and authentication to have a log-in/log-out feature.
 - Created a custom backend using Ruby on Rails and Active Record.
 
 ## Contact Me 
