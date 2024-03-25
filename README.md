@@ -5,6 +5,8 @@ Full-stack developer with experience in frontend and backend technologies such a
 I bring strong skills in collaboration and teamwork, as well as a passion for creativity in everything I do. My background working on film sets gives me an alternative perspective and experience working in high-stress, deadline-driven, highly collaborative environments.
 
 I spent the summer of 2019 at the esteemed Second City in Chicago, working through Columbia College's Comedy Studies program writing and performing a full sketch comedy show. I believe humor is an integral part of human connection and try to incorporate aspects of levity in everything I do.
+
+Since March of 2022 I've been an engineer at ReviewTrackers, helping to implement a variety of features, including automated AI review responding using OpenAI.
  
   
 ## Projects 
